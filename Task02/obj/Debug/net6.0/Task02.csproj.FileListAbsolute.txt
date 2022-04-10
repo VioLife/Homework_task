@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Homework_task/Task02/bin/Debug/net6.0/Task02
+/Users/mac/Desktop/Homework_task/Task02/bin/Debug/net6.0/Task02.deps.json
+/Users/mac/Desktop/Homework_task/Task02/bin/Debug/net6.0/Task02.runtimeconfig.json
+/Users/mac/Desktop/Homework_task/Task02/bin/Debug/net6.0/Task02.dll
+/Users/mac/Desktop/Homework_task/Task02/bin/Debug/net6.0/Task02.pdb
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/Task02.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/Task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/Task02.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/Task02.AssemblyInfo.cs
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/Task02.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/Task02.dll
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/refint/Task02.dll
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/Task02.pdb
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/Task02.genruntimeconfig.cache
+/Users/mac/Desktop/Homework_task/Task02/obj/Debug/net6.0/ref/Task02.dll
