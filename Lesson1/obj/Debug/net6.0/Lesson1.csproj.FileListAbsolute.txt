@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/Lesson1.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/Lesson1.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/Lesson1.AssemblyInfo.cs
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/Lesson1.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Homework_task/Lesson1/bin/Debug/net6.0/Lesson1
+/Users/mac/Desktop/Homework_task/Lesson1/bin/Debug/net6.0/Lesson1.deps.json
+/Users/mac/Desktop/Homework_task/Lesson1/bin/Debug/net6.0/Lesson1.runtimeconfig.json
+/Users/mac/Desktop/Homework_task/Lesson1/bin/Debug/net6.0/Lesson1.dll
+/Users/mac/Desktop/Homework_task/Lesson1/bin/Debug/net6.0/Lesson1.pdb
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/Lesson1.dll
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/refint/Lesson1.dll
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/Lesson1.pdb
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/Lesson1.genruntimeconfig.cache
+/Users/mac/Desktop/Homework_task/Lesson1/obj/Debug/net6.0/ref/Lesson1.dll
