@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Homework_task/Exercise4/bin/Debug/net6.0/Exercise4
+/Users/mac/Desktop/Homework_task/Exercise4/bin/Debug/net6.0/Exercise4.deps.json
+/Users/mac/Desktop/Homework_task/Exercise4/bin/Debug/net6.0/Exercise4.runtimeconfig.json
+/Users/mac/Desktop/Homework_task/Exercise4/bin/Debug/net6.0/Exercise4.dll
+/Users/mac/Desktop/Homework_task/Exercise4/bin/Debug/net6.0/Exercise4.pdb
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/Exercise4.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/Exercise4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/Exercise4.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/Exercise4.AssemblyInfo.cs
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/Exercise4.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/Exercise4.dll
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/refint/Exercise4.dll
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/Exercise4.pdb
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/Exercise4.genruntimeconfig.cache
+/Users/mac/Desktop/Homework_task/Exercise4/obj/Debug/net6.0/ref/Exercise4.dll
