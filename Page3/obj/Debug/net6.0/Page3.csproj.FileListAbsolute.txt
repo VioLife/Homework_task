@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/Page3.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/Page3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/Page3.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/Page3.AssemblyInfo.cs
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/Page3.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Homework_task/Page3/bin/Debug/net6.0/Page3
+/Users/mac/Desktop/Homework_task/Page3/bin/Debug/net6.0/Page3.deps.json
+/Users/mac/Desktop/Homework_task/Page3/bin/Debug/net6.0/Page3.runtimeconfig.json
+/Users/mac/Desktop/Homework_task/Page3/bin/Debug/net6.0/Page3.dll
+/Users/mac/Desktop/Homework_task/Page3/bin/Debug/net6.0/Page3.pdb
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/Page3.dll
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/refint/Page3.dll
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/Page3.pdb
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/Page3.genruntimeconfig.cache
+/Users/mac/Desktop/Homework_task/Page3/obj/Debug/net6.0/ref/Page3.dll
