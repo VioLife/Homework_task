@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Homework_task/Семинар 6/bin/Debug/net6.0/Семинар 6
+/Users/mac/Desktop/Homework_task/Семинар 6/bin/Debug/net6.0/Семинар 6.deps.json
+/Users/mac/Desktop/Homework_task/Семинар 6/bin/Debug/net6.0/Семинар 6.runtimeconfig.json
+/Users/mac/Desktop/Homework_task/Семинар 6/bin/Debug/net6.0/Семинар 6.dll
+/Users/mac/Desktop/Homework_task/Семинар 6/bin/Debug/net6.0/Семинар 6.pdb
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/Семинар 6.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/Семинар 6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/Семинар 6.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/Семинар 6.AssemblyInfo.cs
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/Семинар 6.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/Семинар 6.dll
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/refint/Семинар 6.dll
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/Семинар 6.pdb
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/Семинар 6.genruntimeconfig.cache
+/Users/mac/Desktop/Homework_task/Семинар 6/obj/Debug/net6.0/ref/Семинар 6.dll
