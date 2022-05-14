@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Homework_task/Двумерные массивы/bin/Debug/net6.0/Двумерные массивы
+/Users/mac/Desktop/Homework_task/Двумерные массивы/bin/Debug/net6.0/Двумерные массивы.deps.json
+/Users/mac/Desktop/Homework_task/Двумерные массивы/bin/Debug/net6.0/Двумерные массивы.runtimeconfig.json
+/Users/mac/Desktop/Homework_task/Двумерные массивы/bin/Debug/net6.0/Двумерные массивы.dll
+/Users/mac/Desktop/Homework_task/Двумерные массивы/bin/Debug/net6.0/Двумерные массивы.pdb
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/Двумерные массивы.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/Двумерные массивы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/Двумерные массивы.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/Двумерные массивы.AssemblyInfo.cs
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/Двумерные массивы.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/Двумерные массивы.dll
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/refint/Двумерные массивы.dll
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/Двумерные массивы.pdb
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/Двумерные массивы.genruntimeconfig.cache
+/Users/mac/Desktop/Homework_task/Двумерные массивы/obj/Debug/net6.0/ref/Двумерные массивы.dll
