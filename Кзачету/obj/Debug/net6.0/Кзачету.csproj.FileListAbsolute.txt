@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/Кзачету.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/Кзачету.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/Кзачету.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/Кзачету.AssemblyInfo.cs
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/Кзачету.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Homework_task/Кзачету/bin/Debug/net6.0/Кзачету
+/Users/mac/Desktop/Homework_task/Кзачету/bin/Debug/net6.0/Кзачету.deps.json
+/Users/mac/Desktop/Homework_task/Кзачету/bin/Debug/net6.0/Кзачету.runtimeconfig.json
+/Users/mac/Desktop/Homework_task/Кзачету/bin/Debug/net6.0/Кзачету.dll
+/Users/mac/Desktop/Homework_task/Кзачету/bin/Debug/net6.0/Кзачету.pdb
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/Кзачету.dll
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/refint/Кзачету.dll
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/Кзачету.pdb
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/Кзачету.genruntimeconfig.cache
+/Users/mac/Desktop/Homework_task/Кзачету/obj/Debug/net6.0/ref/Кзачету.dll
