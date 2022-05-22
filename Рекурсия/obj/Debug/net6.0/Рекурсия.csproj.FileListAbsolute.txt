@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Homework_task/Рекурсия/bin/Debug/net6.0/Рекурсия
+/Users/mac/Desktop/Homework_task/Рекурсия/bin/Debug/net6.0/Рекурсия.deps.json
+/Users/mac/Desktop/Homework_task/Рекурсия/bin/Debug/net6.0/Рекурсия.runtimeconfig.json
+/Users/mac/Desktop/Homework_task/Рекурсия/bin/Debug/net6.0/Рекурсия.dll
+/Users/mac/Desktop/Homework_task/Рекурсия/bin/Debug/net6.0/Рекурсия.pdb
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/Рекурсия.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/Рекурсия.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/Рекурсия.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/Рекурсия.AssemblyInfo.cs
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/Рекурсия.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/Рекурсия.dll
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/refint/Рекурсия.dll
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/Рекурсия.pdb
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/Рекурсия.genruntimeconfig.cache
+/Users/mac/Desktop/Homework_task/Рекурсия/obj/Debug/net6.0/ref/Рекурсия.dll
