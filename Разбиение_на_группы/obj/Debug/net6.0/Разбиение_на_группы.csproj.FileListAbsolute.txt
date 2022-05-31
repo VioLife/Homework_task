@@ -1,0 +1,15 @@
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/bin/Debug/net6.0/Разбиение_на_группы
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/bin/Debug/net6.0/Разбиение_на_группы.deps.json
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/bin/Debug/net6.0/Разбиение_на_группы.runtimeconfig.json
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/bin/Debug/net6.0/Разбиение_на_группы.dll
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/bin/Debug/net6.0/Разбиение_на_группы.pdb
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/Разбиение_на_группы.csproj.AssemblyReference.cache
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/Разбиение_на_группы.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/Разбиение_на_группы.AssemblyInfoInputs.cache
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/Разбиение_на_группы.AssemblyInfo.cs
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/Разбиение_на_группы.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/Разбиение_на_группы.dll
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/refint/Разбиение_на_группы.dll
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/Разбиение_на_группы.pdb
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/Разбиение_на_группы.genruntimeconfig.cache
+/Users/mac/Desktop/Homework_task/Разбиение_на_группы/obj/Debug/net6.0/ref/Разбиение_на_группы.dll

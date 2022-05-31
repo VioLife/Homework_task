@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Разбиение_на_группы/1.0.0": {
+        "runtime": {
+          "Разбиение_на_группы.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Разбиение_на_группы/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
